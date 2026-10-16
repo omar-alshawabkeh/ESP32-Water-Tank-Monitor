@@ -32,15 +32,15 @@ This is a university project built using an **ESP32** board and an **HC-SR04 / U
 ## Hardware Setup & Gallery
 
 ### Ultrasonic Sensor Mount
-![Sensor Top](schematics/sensor_top.jpg)
-![Sensor Board](schematics/sensor_bottom.jpg)
+![Sensor Top](schematics/sensor_top.jpg.jfif)
+![Sensor Board](schematics/sensor_bottom.jpg.jfif)
 
 ### Circuit & Breadboard Wiring
-![Wiring Setup](schematics/breadboard_connections.jpg)
+![Wiring Setup](schematics/breadboard_connections.jpg.jfif)
 
 ### Full Prototype Setup
-![Full System 1](schematics/full_setup.jpg)
-![Full System 2](schematics/full_setup2.jpg)
+![Full System 1](schematics/full_setup.jpg.jfif)
+![Full System 2](schematics/full_setup2.jpg.jfif)
 
 ---
 
